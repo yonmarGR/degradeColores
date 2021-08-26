@@ -1,0 +1,55 @@
+{
+  "name": "Degrade App Vue",
+  "sort_name": "Degradado Vue",
+  "description": "Degradado App Vue para degradar colores con Vue3",
+  "background_color": "#d9e7f6",
+  "theme_color": "#d9e7f6",
+  "start_url": "./?umt_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src":"./img/deg16.png",
+      "sizes": "16x16",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/deg32.png",
+      "sizes": "32x32",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/deg64.png",
+      "sizes": "64x64",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/deg128.png",
+      "sizes": "128x128",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/maskable.png",
+      "sizes": "142x142",
+      "type":"image/png",
+      "purpose":"maskable"
+    },
+    {
+      "src":"./img/deg256.png",
+      "sizes": "256x256",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/deg512.png",
+      "sizes": "512x512",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/deg1024.png",
+      "sizes": "1024x1024",
+      "type":"image/png"
+    }
+  ]
+}
